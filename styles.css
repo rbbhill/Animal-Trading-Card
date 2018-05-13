@@ -1,0 +1,54 @@
+body {
+  font-family: Arial, 'times new roman', 'open sans', sans-serif;
+  color: #ffffff;
+}
+.card {
+  margin: auto;
+  width: 300px;
+  border-radius: 8px;
+  border: gray;
+  padding: 5px 15px 8px 10px;
+  background-color: #000000;
+  box-shadow: 4px 4px 4px 4px gray;
+}
+.name {
+  line-height: 6px;
+}
+img {
+  width: 300px;
+  border-radius: 5px;
+  border: medium solid white;
+  margin-bottom: .50em;
+}
+.info {
+  width: 300px;
+  font-size: 14px;
+  text-align: justify;
+  border-radius: 5px;
+  border: solid white;
+  margin: 0 0 .75em 0em;
+  background-image: url('https://image.ibb.co/dDz4gw/test_kodiak_bear_background.png');
+  opacity: .80;
+}
+.transbox {
+  margin: 7px;
+}
+.transbox p {
+}
+
+.fact {
+  font-style: italic;
+}
+.fact span {
+  font-weight: bold;
+}
+.list {
+  padding-left: 0rem;
+  list-style-type: none;
+}
+.list li span {
+  font-weight: bold;
+}
+.description {
+}
+/* end */
